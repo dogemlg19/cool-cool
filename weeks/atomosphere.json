@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Atomosphere", "gf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "atomosphere",
+	"weekName": "Atomosphere",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
