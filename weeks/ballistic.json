@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Ballistic", "gf", [143, 0, 31]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "back alley blitz",
+	"weekBefore": "ballistic",
+	"weekName": "Ballistic",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
