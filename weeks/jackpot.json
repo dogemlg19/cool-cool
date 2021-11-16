@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Jackpot", "pico", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "jackpot",
+	"weekName": "Jackpot",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
