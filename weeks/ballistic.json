@@ -1,10 +1,10 @@
 {
 	"songs": [
-		["Ballistic", "gf", [143, 0, 31]]
+		["Ballistic", "pico", [143, 0, 31]]
 	],
 
 	"weekCharacters": [
-		"",
+		"pico",
 		"bf",
 		"gf"
 	],

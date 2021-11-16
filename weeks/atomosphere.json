@@ -1,10 +1,10 @@
 {
 	"songs": [
-		["Atomosphere", "gf", [165, 0, 77]]
+		["Atomosphere", "pico", [165, 0, 77]]
 	],
 
 	"weekCharacters": [
-		"",
+		"pico",
 		"bf",
 		"gf"
 	],
