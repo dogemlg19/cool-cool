@@ -3,6 +3,7 @@
 		"characters": ["bfsigndeath"],
 		"sounds": ["ex_death"],
 		"music": ["tikygameOver", "tikygameOverEnd"],
-		"notes": []
+		"uses_notes": [],
+		"notes_uses_this": []
 	}
 }

@@ -3,6 +3,7 @@
 		"characters": [],
 		"sounds": ["hankshoot", "hankded"],
 		"music": [],
-		"notes": ["Bullet_Note"]
+		"uses_notes": ["Bullet_Note"],
+		"notes_uses_this": []
 	}
 }
