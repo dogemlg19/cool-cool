@@ -2,7 +2,7 @@ function onCreate()
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Bullet_Note' then --Check if the note on the chart is a Bullet Note
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'custom_notetypes/Bullet_Note'); --Change texture
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'custom_notetypes/BulletKill_Note'); --Change texture
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashHue', 0); --custom notesplash color, why not
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashSat', -20);
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashBrt', 1);
@@ -16,7 +16,7 @@ end
 
 local shootAnims = {"LEFTshoot", "DOWNshoot", "UPshoot", "RIGHTshoot"}
 function goodNoteHit(id, direction, noteType, isSustainNote)
-	if noteType == 'Bullet_Note' then
+	if noteType == 'BulletKill_Note' then
 		playSound('hankshoot', 0.5);
 		characterPlayAnim('dad', shootAnims[direction + 1], false);
 		characterPlayAnim('boyfriend', 'dodge', true);
@@ -27,7 +27,7 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
 end
 
 function noteMiss(id, direction, noteType, isSustainNote)
-	if noteType == 'Bullet_Note' then
+	if noteType == 'BulletKill_Note' then
 		setProperty('health', getProperty('health')-0.8);
 		runTimer('bleed', 0.2, 20);
 		playSound('hankded', 0.6);
