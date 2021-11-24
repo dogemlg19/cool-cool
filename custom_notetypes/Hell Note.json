@@ -1,7 +1,7 @@
 {
-	"neededFiles": [
+	"neededFiles": {
 		"characters": ["bfsigndeath"],
 		"sounds": ["firenote"],
 		"music": ["tikygameOver", "tikygameOverEnd"]
-	]
+	}
 }
