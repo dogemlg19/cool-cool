@@ -2,8 +2,6 @@
 	"neededFiles": {
 		"characters": ["bfsigndeath"],
 		"sounds": ["firenote"],
-		"music": ["tikygameOver", "tikygameOverEnd"],
-		"uses_notes": [],
-		"notes_uses_this": []
+		"music": ["tikygameOver", "tikygameOverEnd"]
 	}
 }

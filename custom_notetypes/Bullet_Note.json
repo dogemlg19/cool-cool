@@ -2,8 +2,6 @@
 	"neededFiles": {
 		"characters": [],
 		"sounds": ["hankshoot", "hankded"],
-		"music": [],
-		"uses_notes": [],
-		"notes_uses_this": ["BulletKill_Note"]
+		"music": []
 	}
 }
