@@ -2,6 +2,7 @@
 	"neededFiles": {
 		"characters": ["bfsigndeath"],
 		"sounds": ["ex_death"],
-		"music": ["tikygameOver", "tikygameOverEnd"]		
+		"music": ["tikygameOver", "tikygameOverEnd"],
+		"notes": []
 	}
 }

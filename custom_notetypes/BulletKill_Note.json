@@ -1,0 +1,8 @@
+{
+	"neededFiles": {
+		"characters": [],
+		"sounds": ["hankshoot", "hankded"],
+		"music": [],
+		"notes": ["Bullet_Note"]
+	}
+}
