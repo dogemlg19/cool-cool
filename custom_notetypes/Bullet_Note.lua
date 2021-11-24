@@ -30,11 +30,6 @@ function noteMiss(id, direction, noteType, isSustainNote)
 	if noteType == 'Bullet_Note' then
 		setProperty('health', -1);
 		playSound('hankshoot', 0.5);
-	--elseif noteType == 'Bullet_Note' then
-		--setProperty('health', getProperty('health')-0.8);
-		--runTimer('bleed', 0.2, 20);
-		--playSound('hankded', 0.6);
-		--characterPlayAnim('boyfriend', 'hurt', true);
 	end
 end
 
