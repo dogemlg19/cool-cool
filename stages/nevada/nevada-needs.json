@@ -1,0 +1,8 @@
+{
+	"neededFiles": {
+		"images": ["nevada_city", "nevada_hill", "nevada_stage", "cya", "tracer", "nevada_foreground"],
+		"imagesWithXml": ["agent", "choppalol", "deimous", "engineer", "gfhotdog", "gremlin", "grunt", "hand", "hellclown", "laser", "speakers", "stanford", "tikyfall"],
+		"sounds": ["hankreadyupsound", "Screamfade", "hellclown", "hankded"],
+		"music": []
+	}
+}
