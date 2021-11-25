@@ -1,5 +1,6 @@
 {
 	"songs": ["atomosphere", "ballistic", "jackpot"],
 	"characters": ["hank", "whittyCrazy"],
+	"stages": ["nevada"],
 	"notetypes": ["Bullet_Note", "BulletKill_Note", "EX Note", "Hell Note"]
 }
