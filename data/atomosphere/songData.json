@@ -1,6 +1,6 @@
 {
 	"offset": 0,
-	"usesModchart": false,
+	"usesModchart": true,
 	"difficulty": {
 		"names": [
 			"9.8 ms",
