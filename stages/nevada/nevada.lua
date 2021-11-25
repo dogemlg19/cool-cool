@@ -5,29 +5,29 @@ function onCreate()
 	
 	setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'bfded'); --put in mods/sounds/
 	
-    makeLuaSprite('city', 'stages/accelerant/nevada_city', -600, -100) --the background
+    makeLuaSprite('city', 'stages/nevada/nevada_city', -600, -100) --the background
 		addLuaSprite('city', false);
 			setProperty('city.scale.x', getProperty('city.scale.x') + 0.6);
 			setProperty('city.scale.y', getProperty('city.scale.y') + 0.2);
 		
 	if not lowQuality then
-		makeAnimatedLuaSprite('heli', 'stages/accelerant/choppalol', -1680, 10) --the heli that deimos and sanford ride.
+		makeAnimatedLuaSprite('heli', 'stages/nevada/choppalol', -1680, 10) --the heli that deimos and sanford ride.
 			addLuaSprite('heli', false); --Added offscreen before it starts moving.
 				addAnimationByPrefix('heli', 'Move', 'choppa xD', 24, true);
 	
-		makeLuaSprite('hill', 'stages/accelerant/nevada_hill', -200, 100) --the hill that deimos and sanford occupy.
+		makeLuaSprite('hill', 'stages/nevada/nevada_hill', -200, 100) --the hill that deimos and sanford occupy.
 			addLuaSprite('hill', false);
 				setProperty('hill.scale.x', getProperty('hill.scale.x') + 0.8);
 				setProperty('hill.scale.y', getProperty('hill.scale.y') + 0.6);
 	
-		makeAnimatedLuaSprite('sanford', 'stages/accelerant/stanford', 1370, 100) --sanford's sprites. bool statement means if the animation should loop or not.
+		makeAnimatedLuaSprite('sanford', 'stages/nevada/stanford', 1370, 100) --sanford's sprites. bool statement means if the animation should loop or not.
 			addAnimationByPrefix('sanford', 'enter', 'stanford land', 12, false);
 			addAnimationByPrefix('sanford', 'idle', 'stanford dance', 14, false);
 			addAnimationByPrefix('sanford', 'shoot', 'stanford shoot', 20, false);
 				setProperty('sanford.scale.x', getProperty('sanford.scale.x') + 0.26);
 				setProperty('sanford.scale.y', getProperty('sanford.scale.y') + 0.26);
 	
-		makeAnimatedLuaSprite('deimos', 'stages/accelerant/deimous', -790, 100); --deimos's sprites
+		makeAnimatedLuaSprite('deimos', 'stages/nevada/deimous', -790, 100); --deimos's sprites
 			addAnimationByPrefix('deimos', 'enter', 'deimous land', 12, false);
 			addAnimationByPrefix('deimos', 'idle', 'deimous dance', 14, true);
 			addAnimationByPrefix('deimos', 'shoot', 'deimous shoot', 20, false);
@@ -45,50 +45,50 @@ function onCreate()
 			--setBlendMode('shotflashSanford', 'screen');
 	end
 			
-	makeAnimatedLuaSprite('tiky', 'stages/accelerant/tikyfall', 340, -50); -- tricky falling off the speaker
+	makeAnimatedLuaSprite('tiky', 'stages/nevada/tikyfall', 340, -50); -- tricky falling off the speaker
 		addAnimationByPrefix('tiky', 'skidaddle', 'fall', 24, true); --the animation
 	
-    makeLuaSprite('stage', 'stages/accelerant/nevada_stage', -400, -220); --the stage where everybody sings!
+    makeLuaSprite('stage', 'stages/nevada/nevada_stage', -400, -220); --the stage where everybody sings!
 		addLuaSprite('stage', false);
 			setProperty('stage.scale.x', getProperty('stage.scale.x') + 0.6);
 			setProperty('stage.scale.y', getProperty('stage.scale.y') + 0.8);
 			
-	makeAnimatedLuaSprite('speaker', 'stages/accelerant/speakers', 185, 460); --the speakers that tricky sings on, and later falls off of
+	makeAnimatedLuaSprite('speaker', 'stages/nevada/speakers', 185, 460); --the speakers that tricky sings on, and later falls off of
 		addAnimationByPrefix('speaker', 'idle', 'GF Dancing Beat', 24, true);
 			setLuaSpriteScrollFactor('speaker', 1, 1);
 	
-	makeAnimatedLuaSprite('hotdog', 'stages/accelerant/gfhotdog', 2000, 500); --creating gf walking in with a hotdog
+	makeAnimatedLuaSprite('hotdog', 'stages/nevada/gfhotdog', 2000, 500); --creating gf walking in with a hotdog
 		addAnimationByPrefix('hotdog', 'enter', 'girlfriend walk', 8, true);
 		addAnimationByPrefix('hotdog', 'idle', 'girlfriend dance idle', 24, true);
 			setProperty('hotdog.scale.x', getProperty('hotdog.scale.x') + 0.56);
 			setProperty('hotdog.scale.y', getProperty('hotdog.scale.y') + 0.56);
 			setLuaSpriteScrollFactor('hotdog', 1, 1);
 	
-	makeLuaSprite('yeet', 'stages/accelerant/cya', 220, 220); --creating the gf sprite that flies away
+	makeLuaSprite('yeet', 'stages/nevada/cya', 220, 220); --creating the gf sprite that flies away
 		setProperty('yeet.scale.x', getProperty('yeet.scale.x') + 0.5);
 		setProperty('yeet.scale.y', getProperty('yeet.scale.y') + 0.5);
 			
-	makeLuaSprite('shot', 'stages/accelerant/tracer', 2000, 640); --da Bullet
+	makeLuaSprite('shot', 'stages/nevada/tracer', 2000, 640); --da Bullet
 		addLuaSprite('shot', true); --creating the bullet offscreen for later
 		
 	if not lowQuality then
-		makeLuaSprite('foreground', 'stages/accelerant/nevada_foreground', -970, -215); --the foreground, aka tent with the word MADNESS on it
+		makeLuaSprite('foreground', 'stages/nevada/nevada_foreground', -970, -215); --the foreground, aka tent with the word MADNESS on it
 			addLuaSprite('foreground', true);
 				setProperty('foreground.scale.x', getProperty('foreground.scale.x') + 0.75);
 				setProperty('foreground.scale.y', getProperty('foreground.scale.y') + 0.8);
 	
-		makeAnimatedLuaSprite('laserdot', 'stages/accelerant/laser', 520, 210); --x 520 y 210
+		makeAnimatedLuaSprite('laserdot', 'stages/nevada/laser', 520, 210); --x 520 y 210
 			addAnimationByPrefix('laserdot', 'enter', 'laser idle', 24, false);
 			addAnimationByPrefix('laserdot', 'bop', 'laser bop', 24, true);
 			setProperty('laserdot.scale.x', getProperty('laserdot.scale.x') + 0.6);
 			setProperty('laserdot.scale.y', getProperty('laserdot.scale.y') + 0.6);
 	end	
 			
-	if difficulty == 2 then --don't need hellclown if the difficulty isn't "fucked"
+	if difficulty == 1 then --don't need hellclown if the difficulty isn't "fucked"
 		if not lowQuality then
-			makeAnimatedLuaSprite('hellclown', 'stages/accelerant/hellclown', 180, 1500); --hellclown,
-			makeAnimatedLuaSprite('lefthand', 'stages/accelerant/hand', -300, 2050); --his left hand,
-			makeAnimatedLuaSprite('righthand', 'stages/accelerant/hand', 1000, 2050); --and his right hand.
+			makeAnimatedLuaSprite('hellclown', 'stages/nevada/hellclown', 180, 1500); --hellclown,
+			makeAnimatedLuaSprite('lefthand', 'stages/nevada/hand', -300, 2050); --his left hand,
+			makeAnimatedLuaSprite('righthand', 'stages/nevada/hand', 1000, 2050); --and his right hand.
 			
 				addAnimationByPrefix('hellclown', 'idle', 'hellclown idle', 12, true);
 				addAnimationByPrefix('lefthand', 'idle', 'hand idle', 14, true);
@@ -108,10 +108,10 @@ function onCreate()
 		end				
 		if not hideHud then
 			if downscroll then
-				makeAnimatedLuaSprite('lever', 'stages/accelerant/gremlin', 390, 40); --the health draining lever
+				makeAnimatedLuaSprite('lever', 'stages/nevada/gremlin', 390, 40); --the health draining lever
 				setProperty('lever.flipY', true);
 			else
-				makeAnimatedLuaSprite('lever', 'stages/accelerant/gremlin', 390, 410);
+				makeAnimatedLuaSprite('lever', 'stages/nevada/gremlin', 390, 410);
 			end
 			setProperty('lever.scale.x', getProperty('lever.scale.x') - 0.3);
 			setProperty('lever.scale.y', getProperty('lever.scale.y') - 0.3);
@@ -122,47 +122,47 @@ function onCreate()
 			
 			setLuaSpriteScrollFactor('lever', 0, 0);
 		end
-	elseif difficulty == 1 then --adds the climbing enemies for "hard" difficulty
-		makeAnimatedLuaSprite('agent', 'stages/accelerant/agent', 370, 1000);
+	elseif difficulty == 0 then --adds the climbing enemies for "hard" difficulty
+		makeAnimatedLuaSprite('agent', 'stages/nevada/agent', 370, 1000);
 			addAnimationByPrefix('agent', 'agentdie', 'poo poo agent', 12, false);
 			setProperty('agent.scale.x', getProperty('agent.scale.x') + 0.2);
 			setProperty('agent.scale.y', getProperty('agent.scale.y') + 0.2);
 		
-		makeAnimatedLuaSprite('engineer', 'stages/accelerant/engineer', 910, 1000);
+		makeAnimatedLuaSprite('engineer', 'stages/nevada/engineer', 910, 1000);
 			addAnimationByPrefix('engineer', 'engineerdie', 'engineer idle', 12, false);
 			setProperty('engineer.scale.x', getProperty('engineer.scale.x') + 0.2);
 			setProperty('engineer.scale.y', getProperty('engineer.scale.y') + 0.2);
 		
-		makeAnimatedLuaSprite('grunt', 'stages/accelerant/grunt', -150, 1000);
+		makeAnimatedLuaSprite('grunt', 'stages/nevada/grunt', -150, 1000);
 			addAnimationByPrefix('grunt', 'gruntdie', 'grunt is dead :)', 12, false);
 			setProperty('grunt.scale.x', getProperty('grunt.scale.x') + 0.2);
 			setProperty('grunt.scale.y', getProperty('grunt.scale.y') + 0.2);
 	end
 	--a bunch of precaching to brace for lag
 	
-	if difficulty == 2 then
+	if difficulty == 1 then
 		precacheImage('custom_notetypes/EX Note');
-		precacheImage('stages/accelerant/gremlin');
+		precacheImage('stages/nevada/gremlin');
 		if not lowQuality then
-			precacheImage('stages/accelerant/hellclown');
-			precacheImage('stages/accelerant/hand');
+			precacheImage('stages/nevada/hellclown');
+			precacheImage('stages/nevada/hand');
 		end
-	elseif difficulty == 1 then
+	elseif difficulty == 0 then
 		if not lowQuality then
-			precacheImage('stages/accelerant/grunt');
-			precacheImage('stages/accelerant/engineer');
-			precacheImage('stages/accelerant/agent');
+			precacheImage('stages/nevada/grunt');
+			precacheImage('stages/nevada/engineer');
+			precacheImage('stages/nevada/agent');
 		end
 		precacheImage('custom_notetypes/Hell Note');
 	end
 	
 	if not lowQuality then
-		precacheImage('stages/accelerant/cya');
-		precacheImage('stages/accelerant/laser');
-		precacheImage('stages/accelerant/stanford');
-		precacheImage('stages/accelerant/deimous');
-		precacheImage('stages/accelerant/tiky');
-		precacheImage('stages/accelerant/speakers');
+		precacheImage('stages/nevada/cya');
+		precacheImage('stages/nevada/laser');
+		precacheImage('stages/nevada/stanford');
+		precacheImage('stages/nevada/deimous');
+		precacheImage('stages/nevada/tiky');
+		precacheImage('stages/nevada/speakers');
 	end
 	precacheImage('custom_notetypes/Bullet_Note');
 	addCharacterToList('hank-scared', 'dad'); 
@@ -171,7 +171,7 @@ function onCreate()
 	precacheSound('hankshoot');
 	precacheSound('hankreadyupsound');
 	precacheSound('Screamfade');
-	if difficulty == 2 then
+	if difficulty == 1 then
 		precacheSound('hellclown');
 	end
 end
@@ -230,7 +230,7 @@ stepHitFuncs = { --a bunch of timed events, timed to steps
 		removeLuaSprite('laserdot', false);
 	end,
 	[684] = function() --lever, 684
-		if difficulty == 2 then
+		if difficulty == 1 then
 			if not hideHud then
 				addLuaSprite('lever', false);
 				objectPlayAnimation('lever', 'enter', true);
@@ -259,7 +259,7 @@ stepHitFuncs = { --a bunch of timed events, timed to steps
 	end,
 	[992] = function() --992
 		if not lowQuality then
-			if difficulty == 2 then --checking if the difficulty is "fucked" (hard)
+			if difficulty == 1 then --checking if the difficulty is "fucked" (hard)
 				removeLuaSprite('stage', false);
 				removeLuaSprite('speaker', false);
 				setProperty('hellclown.visible', true);
@@ -275,7 +275,7 @@ stepHitFuncs = { --a bunch of timed events, timed to steps
 				doTweenY('lethandTweenY', 'lefthand', 350, 3, 'linear');
 				doTweenY('righthandTweenY', 'righthand', 350, 3, 'linear');
 				runTimer('scream', 0.5, 1);
-			elseif difficulty == 1 then -- enemies appear on "hard" (normal)
+			elseif difficulty == 0 then -- enemies appear on "hard" (normal)
 				removeLuaSprite('speaker', false);
 				removeLuaSprite('stage', false);
 				removeLuaSprite('hotdog', false);
@@ -308,11 +308,11 @@ function onStepHit()
 end
 
 function onMoveCamera(focus) --camera changes a bit after hellclown appears
-	if focus == 'boyfriend' and difficulty == 2 and curStep >= 992 then --992
+	if focus == 'boyfriend' and difficulty == 1 and curStep >= 992 then --992
 		setProperty(camY, getProperty(camY) - 100);
 		setProperty(camX, getProperty(camX) - 150);
 		-- called when the camera focus on boyfriend
-	elseif focus == 'dad' and difficulty == 2 and curStep >= 992 then --992
+	elseif focus == 'dad' and difficulty == 1 and curStep >= 992 then --992
 		setProperty(camY, getProperty(camY) - 100);
 		setProperty(camX, getProperty(camX) + 150);
 		-- called when the camera focus on dad
@@ -389,7 +389,7 @@ randomEnemyFuncs = { --da climbing enemies
 }
 
 function onBeatHit()
-	if curBeat >= 248 and difficulty == 1 then --248
+	if curBeat >= 248 and difficulty == 0 then --248
 		if curBeat % 5 == 0 then
 			enemy = math.floor(math.random(1, 3));
 			location = math.floor(math.random(1, 3));
@@ -421,7 +421,7 @@ function goodNoteHit(id, direction, noteType, isSustainNote, character, animId, 
 		bulletposY[direction]() --executes functions in bulletposY at direction
 		doTweenX('shotTweenX1', 'shot', -200, 0.01, 'linear');
 		doTweenX('shotTweenX2', 'shot', 2000, 0.2, 'linear');
-		if curBeat > 246 and difficulty == 2 then --if hellclown appears
+		if curBeat > 246 and difficulty == 1 then --if hellclown appears
 			objectPlayAnimation('sanford', 'shoot', false);
 			objectPlayAnimation('deimos', 'shoot', false);
 		end

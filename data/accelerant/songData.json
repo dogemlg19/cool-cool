@@ -1,0 +1,11 @@
+{
+	"offset": 0,
+	"usesModchart": false,
+	"difficulty": {
+		"names": [
+			"hard",
+			"fucked"
+		],
+		"needUpperCase": true
+	}
+}
