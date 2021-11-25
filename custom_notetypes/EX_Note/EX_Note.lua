@@ -2,8 +2,8 @@ function onCreate()
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is an Instakill Note
-		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'EX Note' then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'custom_notetypes/EX Note'); --Change texture
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'EX_Note' then
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'custom_notetypes/EX_Note'); --Change texture
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashDisabled', true);
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') == true then --Lets Opponent's instakill notes get ignored
@@ -21,7 +21,7 @@ end
 -- noteType: The note type string/tag
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
-	if noteType == 'EX Note' then
+	if noteType == 'EX_Note' then
 		setProperty('health', -1);
 		playSound('ex_death', 0.8);
 		setPropertyFromClass('GameOverSubstate', 'characterName', 'bfsigndeath');

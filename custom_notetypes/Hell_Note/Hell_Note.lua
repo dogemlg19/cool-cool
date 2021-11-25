@@ -2,8 +2,8 @@ function onCreate()
 	--Iterate over all notes
 	for i = 0, getProperty('unspawnNotes.length')-1 do
 		--Check if the note is a Fire Note
-		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Hell Note' then
-			setPropertyFromGroup('unspawnNotes', i, 'texture', 'custom_notetypes/Hell Note'); --Change texture --Change note splash texture
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Hell_Note' then
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'custom_notetypes/Hell_Note'); --Change texture --Change note splash texture
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashHue', 0);
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashSat', 0);
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashBrt', -100);
@@ -24,7 +24,7 @@ end
 -- noteType: The note type string/tag
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
-	if noteType == 'Hell Note' then
+	if noteType == 'Hell_Note' then
 		setProperty('health', getProperty('health')-0.2);
 		playSound('firenote', 0.9);
 		runTimer('burn', 0.2, 15);
