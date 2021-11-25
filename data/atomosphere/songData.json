@@ -1,11 +1,14 @@
 {
 	"offset": 0,
-	"difficultyNames": [
-		"9.8 ms",
-		"340.29 ms",
-		"463.89 ms",
-		"1.023 kms",
-		"7.667 kms",
-		"11.186 kms"
-	]
+	"difficulty": {
+		"names": [
+			"9.8 ms",
+			"340.29 ms",
+			"463.89 ms",
+			"1.023 kms",
+			"7.667 kms",
+			"11.186 kms"
+		],
+		"needUpperCase": true
+	}
 }
