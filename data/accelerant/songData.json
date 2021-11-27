@@ -22,7 +22,7 @@
 			"EX_Note",
 			"Hell_Note"
 		],
-		"exitCharts": {
+		"existCharts": {
 			"without_characters": true,
 			"without_stages": true,
 			"without_notetypes": true
