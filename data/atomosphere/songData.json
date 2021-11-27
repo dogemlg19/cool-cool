@@ -9,7 +9,11 @@
 		"stages_necessary": [],
 		"notetypes": [],
 		"notetypes_necessary": [],
-		"charts_without_necessary": false
+		"existCharts": {
+			"without_characters": false,
+			"without_stages": false,
+			"without_notetypes": false
+		}
 	},
 	"difficulty": {
 		"names": [

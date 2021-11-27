@@ -22,7 +22,11 @@
 			"EX_Note",
 			"Hell_Note"
 		],
-		"charts_without_necessary": true
+		"exitCharts": {
+			"without_characters": true,
+			"without_stages": true,
+			"without_notetypes": true
+		}
 	},
 	"difficulty": {
 		"names": [
