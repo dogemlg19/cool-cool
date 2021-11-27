@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Megalo Strike Back", "pico", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "megalo-strike-back",
+	"weekName": "megalo-strike-back",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
