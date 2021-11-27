@@ -4,7 +4,9 @@
 		"modchart": false,
 		"events": false,
 		"characters": [],
-		"characters_necessary": [],
+		"characters_necessary": [
+			"chara"
+		],
 		"stages": [],
 		"stages_necessary": [],
 		"notetypes": [],
