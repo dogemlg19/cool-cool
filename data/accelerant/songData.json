@@ -2,6 +2,12 @@
 	"offset": 0,
 	"usesModchart": false,
 	"usesEvents": true,
+	"usesNotetypes": [
+		"Bullet_Note",
+		"BulletKill_Note",
+		"EX_Note",
+		"Hell_Note"
+	],
 	"difficulty": {
 		"names": [
 			"hard",

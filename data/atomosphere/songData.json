@@ -2,6 +2,7 @@
 	"offset": 0,
 	"usesModchart": false,
 	"usesEvents": false,
+	"usesNotetypes": [],
 	"difficulty": {
 		"names": [
 			"9.8 ms",
