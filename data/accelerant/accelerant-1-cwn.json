@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"sectionLengths": [],
-		"player2": "pico",
+		"player2": "hank",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -6519,6 +6519,7 @@
 		"sections": 0,
 		"needsVoices": true,
 		"validScore": true,
+		"stage": "nevada",
 		"arrowSkin": "",
 		"bpm": 164,
 		"speed": 3
