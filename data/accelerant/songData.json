@@ -1,23 +1,29 @@
 {
 	"offset": 0,
-	"usesModchart": false,
-	"usesEvents": true,
-	"usesCharacters": [
-		"acceleranttricky",
-		"bfsigndeath",
-		"gf-handsup",
-		"hank",
-		"hank-scared"
-	],
-	"usesStages": [
-		"nevada"
-	],
-	"usesNotetypes": [
-		"Bullet_Note",
-		"BulletKill_Note",
-		"EX_Note",
-		"Hell_Note"
-	],
+	"uses": {
+		"modchart": false,
+		"events": true,
+		"characters": [],
+		"characters_necessary": [
+			"acceleranttricky",
+			"bfsigndeath",
+			"gf-handsup",
+			"hank",
+			"hank-scared"
+		],
+		"stages": [
+			"nevada"
+		],
+		"stages_necessary": [],
+		"notetypes": [],
+		"notetypes_necessary": [
+			"Bullet_Note",
+			"BulletKill_Note",
+			"EX_Note",
+			"Hell_Note"
+		],
+		"charts_without_necessary": true
+	},
 	"difficulty": {
 		"names": [
 			"hard",
