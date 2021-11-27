@@ -10,7 +10,7 @@
 		"notetypes": [],
 		"notetypes_necessary": [],
 		"existCharts": {
-			"without_characters": false,
+			"without_characters": true,
 			"without_stages": false,
 			"without_notetypes": false
 		}
