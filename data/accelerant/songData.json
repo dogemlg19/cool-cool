@@ -2,6 +2,16 @@
 	"offset": 0,
 	"usesModchart": false,
 	"usesEvents": true,
+	"usesCharacters": [
+		"acceleranttricky",
+		"bfsigndeath",
+		"gf-handsup",
+		"hank",
+		"hank-scared"
+	],
+	"usesStages": [
+		"nevada"
+	],
 	"usesNotetypes": [
 		"Bullet_Note",
 		"BulletKill_Note",

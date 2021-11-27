@@ -2,6 +2,8 @@
 	"offset": 0,
 	"usesModchart": false,
 	"usesEvents": false,
+	"usesCharacters": [],
+	"usesStages": [],
 	"usesNotetypes": [],
 	"difficulty": {
 		"names": [
