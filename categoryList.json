@@ -1,5 +1,5 @@
 {
-	"songs": ["accelerant", "atomosphere", "ballistic", "jackpot"],
+	"songs": ["accelerant", "atomosphere", "ballistic", "jackpot", "megalo-strike-back"],
 	"characters": ["acceleranttricky", "bfsigndeath", "gf-handsup", "hank", "hank-scared", "whittyCrazy"],
 	"stages": ["nevada"],
 	"notetypes": ["Bullet_Note", "BulletKill_Note", "EX_Note", "Hell_Note"]
