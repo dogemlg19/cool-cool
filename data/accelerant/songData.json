@@ -11,10 +11,10 @@
 			"hank",
 			"hank-scared"
 		],
-		"stages": [
+		"stages": [],
+		"stages_necessary": [
 			"nevada"
 		],
-		"stages_necessary": [],
 		"notetypes": [],
 		"notetypes_necessary": [
 			"Bullet_Note",
