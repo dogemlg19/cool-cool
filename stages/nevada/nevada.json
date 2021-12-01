@@ -5,5 +5,12 @@
 
 	"boyfriend": [700, 195],
 	"girlfriend": [200, 150],
-	"opponent": [-250, 200]
+	"opponent": [-250, 200],
+	
+	"neededFiles": {
+		"images": ["nevada_city", "nevada_hill", "nevada_stage", "cya", "tracer", "nevada_foreground"],
+		"imagesWithXml": ["agent", "choppalol", "deimous", "engineer", "gfhotdog", "gremlin", "grunt", "hand", "hellclown", "laser", "speakers", "stanford", "tikyfall"],
+		"sounds": ["hankreadyupsound", "Screamfade", "hellclown", "hankded"],
+		"music": []
+	}
 }
