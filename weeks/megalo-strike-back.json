@@ -1,10 +1,10 @@
 {
 	"songs": [
-		["Megalo Strike Back", "pico", [0, 0, 0]]
+		["Megalo Strike Back", "chara", [0, 0, 0]]
 	],
 
 	"weekCharacters": [
-		"pico",
+		"chara",
 		"bf",
 		"gf"
 	],
