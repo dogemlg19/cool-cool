@@ -3,30 +3,22 @@
 	"uses": {
 		"modchart": false,
 		"events": true,
-		"characters": [],
-		"characters_necessary": [
+		"characters": [
 			"acceleranttricky",
 			"bfsigndeath",
 			"gf-handsup",
 			"hank",
 			"hank-scared"
 		],
-		"stages": [],
-		"stages_necessary": [
+		"stages": [
 			"nevada"
 		],
-		"notetypes": [],
-		"notetypes_necessary": [
+		"notetypes": [
 			"Bullet_Note",
 			"BulletKill_Note",
 			"EX_Note",
 			"Hell_Note"
-		],
-		"existCharts": {
-			"without_characters": true,
-			"without_stages": true,
-			"without_notetypes": true
-		}
+		]
 	},
 	"difficulty": {
 		"names": [

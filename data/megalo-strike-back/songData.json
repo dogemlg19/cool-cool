@@ -3,21 +3,13 @@
 	"uses": {
 		"modchart": false,
 		"events": false,
-		"characters": [],
-		"characters_necessary": [
+		"characters": [
 			"chara"
 		],
-		"stages": [],
-		"stages_necessary": [
+		"stages": [
 			"chara"
 		],
-		"notetypes": [],
-		"notetypes_necessary": [],
-		"existCharts": {
-			"without_characters": true,
-			"without_stages": true,
-			"without_notetypes": false
-		}
+		"notetypes": []
 	},
 	"difficulty": {
 		"names": [
