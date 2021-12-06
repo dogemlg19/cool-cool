@@ -1,0 +1,78 @@
+{
+	"healthbar_colors": [
+		220,
+		0,
+		0
+	],
+	"position": [
+		-280,
+		-60
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		200,
+		200
+	],
+	"image": "characters/tricky-ex",
+	"sing_duration": 4,
+	"healthicon": "tricky-ex",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				127,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-209,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-340
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down",
+			"indices": []
+		}
+	]
+}

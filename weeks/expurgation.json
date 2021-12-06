@@ -1,0 +1,25 @@
+{
+	"storyName": "tiky",
+	"hideFreeplay": false,
+	"weekBackground": "tiky",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hankmenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"expurgation",
+			"tricky-ex",
+			[
+				183,
+				50,
+				50
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "expurgation"
+}

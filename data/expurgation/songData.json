@@ -1,0 +1,24 @@
+{
+	"uses": {
+		"modchart": false,
+		"stages": [
+			"nevada-ex"
+		],
+		"events": false,
+		"characters": [
+			"tricky-ex",
+			"gf-tricky-ex"
+		],
+		"notetypes": [
+			"EX_Note"
+		]
+	},
+	"difficulty": {
+		"needUpperCase": true,
+		"names": [
+			"easy",
+			"unfair"
+		]
+	},
+	"offset": 0
+}

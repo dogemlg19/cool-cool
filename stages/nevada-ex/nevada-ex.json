@@ -1,0 +1,30 @@
+{
+	"defaultZoom": 0.55,
+	"opponent": [
+		0,
+		0
+	],
+	"directory": "",
+	"neededFiles": {
+		"sounds": [],
+		"images": [
+			"bg",
+			"Energywall",
+			"daBackground",
+			"cover",
+			"Spawnhole_Ground_BACK",
+			"Spawnhole_Ground_COVER"
+		],
+		"music": [],
+		"imagesWithXml": []
+	},
+	"girlfriend": [
+		700,
+		205
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		1120,
+		290
+	]
+}
