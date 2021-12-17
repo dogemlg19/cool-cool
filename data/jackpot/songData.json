@@ -1,5 +1,6 @@
 {
 	"offset": 0,
+	"description": "by TheFatRat, converted from osu!mania using mania2fnf",
 	"uses": {
 		"modchart": false,
 		"events": false,

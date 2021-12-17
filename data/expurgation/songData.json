@@ -1,4 +1,6 @@
 {
+	"offset": 0,
+	"description": "The Full-Ass Tricky Mod by JADS, Banbuds, KadeDev, Cval and more",
 	"uses": {
 		"modchart": false,
 		"events": false,
@@ -20,6 +22,5 @@
 			"easy",
 			"unfair"
 		]
-	},
-	"offset": 0
+	}
 }
