@@ -3,13 +3,14 @@
 	"uses": {
 		"modchart": false,
 		"events": false,
+		"custom_events": [],
+		"custom_notetypes": [],
 		"characters": [
 			"chara"
 		],
 		"stages": [
 			"chara"
-		],
-		"notetypes": []
+		]
 	},
 	"difficulty": {
 		"names": [

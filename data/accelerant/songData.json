@@ -3,6 +3,13 @@
 	"uses": {
 		"modchart": false,
 		"events": true,
+		"custom_events": [],
+		"custom_notetypes": [
+			"Bullet_Note",
+			"BulletKill_Note",
+			"EX_Note",
+			"Hell_Note"
+		],
 		"characters": [
 			"acceleranttricky",
 			"bfsigndeath",
@@ -12,12 +19,6 @@
 		],
 		"stages": [
 			"nevada"
-		],
-		"notetypes": [
-			"Bullet_Note",
-			"BulletKill_Note",
-			"EX_Note",
-			"Hell_Note"
 		]
 	},
 	"difficulty": {

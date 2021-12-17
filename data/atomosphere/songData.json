@@ -3,9 +3,10 @@
 	"uses": {
 		"modchart": false,
 		"events": false,
+		"custom_events": [],
+		"custom_notetypes": [],
 		"characters": [],
-		"stages": [],
-		"notetypes": []
+		"stages": []
 	},
 	"difficulty": {
 		"names": [

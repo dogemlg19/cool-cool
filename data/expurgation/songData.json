@@ -1,16 +1,17 @@
 {
 	"uses": {
 		"modchart": false,
-		"stages": [
-			"nevada-ex"
-		],
 		"events": false,
+		"custom_events": [],
+		"custom_notetypes": [
+			"EX_Note"
+		],
 		"characters": [
 			"tricky-ex",
 			"gf-tricky-ex"
 		],
-		"notetypes": [
-			"EX_Note"
+		"stages": [
+			"nevada-ex"
 		]
 	},
 	"difficulty": {
