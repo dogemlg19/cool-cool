@@ -1,0 +1,20 @@
+{
+	"uses": {
+		"modchart": false,
+		"events": true,
+		"custom_events": [],
+		"custom_notetypes": [],
+		"characters": [],
+		"stages": []
+	},
+	"difficulty": {
+		"needUpperCase": true,
+		"names": [
+			"4k mania",
+			"6k canon",
+			"7k easy",
+			"7k canon"
+		]
+	},
+	"offset": 0
+}

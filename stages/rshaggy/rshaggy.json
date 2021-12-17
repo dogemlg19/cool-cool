@@ -1,0 +1,29 @@
+{
+	"defaultZoom": 0.8,
+	"opponent": [
+		200,
+		100
+	],
+	"directory": "",
+	"neededFiles": {
+		"sounds": [],
+		"images": [
+			"sky",
+			"clouds",
+			"backmount",
+			"middlemount",
+			"ground"
+		],
+		"music": [],
+		"imagesWithXml": []
+	},
+	"girlfriend": [
+		410,
+		130
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		1070,
+		110
+	]
+}
