@@ -1,4 +1,6 @@
 {
+	"offset": 0,
+	"description": "VS Shaggy Mod by srPerez, MORO, Joan Atlas, pointy",
 	"uses": {
 		"modchart": false,
 		"events": true,
@@ -15,6 +17,5 @@
 			"7k easy",
 			"7k canon"
 		]
-	},
-	"offset": 0
+	}
 }
