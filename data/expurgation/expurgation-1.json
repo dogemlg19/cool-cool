@@ -2,7 +2,7 @@
   "song": {
     "player1": "bf",
     "sectionLengths": [],
-    "player2": "tricky-ex",
+    "player2": "tricky_ex",
     "notes": [
       {
         "typeOfSection": 0,
@@ -9242,8 +9242,8 @@
     ],
     "song": "Expurgation",
     "validScore": true,
-    "stage": "nevada-ex",
-    "player3": "gf-tricky-ex",
+    "stage": "nevada_ex",
+    "player3": "gf_tricky_ex",
     "sections": 0,
     "needsVoices": true,
     "bpm": 230,
