@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="shaggy_red.png">
+<TextureAtlas imagePath="redShaggy.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="shaggy_down0000" x="5679" y="662" width="437" height="557" frameX="0" frameY="-30" frameWidth="438" frameHeight="587"/>

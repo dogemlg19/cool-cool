@@ -11879,11 +11879,11 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "rshaggy",
+		"player2": "redShaggy",
 		"player3": "gf",
 		"mania": 4,
 		"song": "Dissasembler",
-		"stage": "rshaggy",
+		"stage": "redShaggy_stage",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,

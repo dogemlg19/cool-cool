@@ -10030,7 +10030,7 @@
 		"player2": "chara",
 		"player3": "gf",
 		"song": "Megalo Strike Back",
-		"stage": "chara",
+		"stage": "chara_stage",
 		"needsVoices": true,
 		"validScore": true,
 		"sections": 0,

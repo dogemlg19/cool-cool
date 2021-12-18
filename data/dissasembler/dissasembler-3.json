@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"sectionLengths": [],
-		"player2": "rshaggy",
+		"player2": "redShaggy",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -7516,7 +7516,7 @@
 		"mania": 7,
 		"player3": "gf",
 		"song": "Dissasembler",
-		"stage": "rshaggy",
+		"stage": "redShaggy_stage",
 		"arrowSkin": "",
 		"needsVoices": true,
 		"sections": 0,

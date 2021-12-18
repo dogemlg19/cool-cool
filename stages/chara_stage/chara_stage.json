@@ -15,7 +15,9 @@
 		-50
 	],
 	"neededFiles": {
-		"images": ["bg"],
+		"images": [
+			"bg"
+		],
 		"imagesWithXml": [],
 		"sounds": [],
 		"music": []
