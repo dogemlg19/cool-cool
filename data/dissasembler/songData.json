@@ -6,8 +6,12 @@
 		"events": true,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": [],
-		"stages": []
+		"characters": [
+			"rshaggy"
+		],
+		"stages": [
+			"rshaggy"
+		]
 	},
 	"difficulty": {
 		"needUpperCase": true,
