@@ -14,9 +14,9 @@
 		200,
 		200
 	],
-	"image": "characters/tricky-ex",
+	"image": "characters/tricky_ex",
 	"sing_duration": 4,
-	"healthicon": "tricky-ex",
+	"healthicon": "tricky_ex",
 	"flip_x": false,
 	"animations": [
 		{
