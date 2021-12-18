@@ -427,6 +427,15 @@ function goodNoteHit(id, direction, noteType, isSustainNote, character, animId, 
 			objectPlayAnimation('deimos', 'shoot', false);
 		end
 	end
+	if noteType == 'BulletKill_Note' then
+		bulletposY[direction]() --executes functions in bulletposY at direction
+		doTweenX('shotTweenX1', 'shot', -200, 0.01, 'linear');
+		doTweenX('shotTweenX2', 'shot', 2000, 0.2, 'linear');
+		if curBeat > 246 and difficulty == 1 then --if hellclown appears
+			objectPlayAnimation('sanford', 'shoot', false);
+			objectPlayAnimation('deimos', 'shoot', false);
+		end
+	end
 	setProperty('health', getProperty('health') + 0.05)
 end
 
