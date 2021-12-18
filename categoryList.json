@@ -1,7 +1,7 @@
 {
 	"songs": ["accelerant", "atomosphere", "ballistic", "dissasembler", "expurgation", "jackpot", "megalo-strike-back"],
-	"characters": ["acceleranttricky", "bfsigndeath", "chara", "gf-handsup", "gf-tricky-ex", "hank", "hank-scared", "tricky-ex", "whittyCrazy"],
-	"stages": ["chara", "nevada", "nevada-ex"],
+	"characters": ["acceleranttricky", "bfsigndeath", "chara", "gf-handsup", "gf-tricky-ex", "hank", "hank-scared", "rshaggy", "tricky-ex", "whittyCrazy"],
+	"stages": ["chara", "nevada", "nevada-ex", "rshaggy"],
 	"custom_notetypes": ["Bullet_Note", "BulletKill_Note", "EX_Note", "Hell_Note"],
 	"custom_events": ["Opponent Fade"]
 }
