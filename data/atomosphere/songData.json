@@ -1,6 +1,9 @@
 {
 	"offset": 0,
 	"description": "by Camellia, converted from osu!mania using mania2fnf",
+	"colors": [165, 0, 77],
+	"healthicon": "pico",
+	"songName": "Atomosphere",
 	"uses": {
 		"modchart": false,
 		"events": false,

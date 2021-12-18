@@ -1,6 +1,9 @@
 {
 	"offset": 0,
 	"description": "VS Shaggy Mod by srPerez, MORO, Joan Atlas, pointy",
+	"colors": [113, 73, 168],
+	"healthicon": "redShaggy",
+	"songName": "Dissasembler",
 	"uses": {
 		"modchart": false,
 		"events": true,

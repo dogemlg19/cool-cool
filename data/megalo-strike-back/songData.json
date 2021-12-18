@@ -1,6 +1,9 @@
 {
 	"offset": 0,
 	"description": "VS Chara Mod by hexar, Rishimazza, Eggplant, Fire_MF",
+	"colors": [0, 0, 0],
+	"healthicon": "chara",
+	"songName": "Megalo Strike Back",
 	"uses": {
 		"modchart": false,
 		"events": false,

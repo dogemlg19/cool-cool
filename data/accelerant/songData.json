@@ -1,6 +1,9 @@
 {
 	"offset": 0,
 	"description": "VS Online Mod Challenge Week by FifLeo, Banbuds, philiplol and TheBlueHatted",
+	"colors": [35, 40, 80],
+	"healthicon": "hank",
+	"songName": "Accelerant",
 	"uses": {
 		"modchart": false,
 		"events": true,

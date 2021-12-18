@@ -1,6 +1,9 @@
 {
 	"offset": 0,
 	"description": "The Full-Ass Tricky Mod by JADS, Banbuds, KadeDev, Cval and more",
+	"colors": [183, 50, 50],
+	"healthicon": "tricky-ex",
+	"songName": "Expurgation",
 	"uses": {
 		"modchart": false,
 		"events": false,
