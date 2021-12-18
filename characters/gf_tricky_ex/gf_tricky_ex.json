@@ -14,7 +14,7 @@
 		-170,
 		60
 	],
-	"image": "characters/gf-tricky-ex",
+	"image": "characters/gf_tricky_ex",
 	"sing_duration": 4,
 	"healthicon": "gf",
 	"flip_x": false,

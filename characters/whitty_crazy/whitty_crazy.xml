@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="whittyCrazy.png">
+<TextureAtlas imagePath="whitty_crazy.png">
 <!-- Created with whitty-executor.exe -->
 <SubTexture name="Idle0000"  x="1217" y="873" width="598" height="761" frameX="-9" frameY="-0"   frameWidth="616" frameHeight="762"/>
 <SubTexture name="Idle0001"  x="1217" y="873" width="598" height="761" frameX="-9" frameY="-0"   frameWidth="616" frameHeight="762"/>

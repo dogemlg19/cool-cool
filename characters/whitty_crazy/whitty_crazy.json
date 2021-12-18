@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/whittyCrazy",
+	"image": "characters/whitty_crazy",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "whittyCrazy",
+	"healthicon": "whitty_crazy",
 	"flip_x": false,
 	"healthbar_colors": [
 		206,

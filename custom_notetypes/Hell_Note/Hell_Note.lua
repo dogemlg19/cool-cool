@@ -33,7 +33,7 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 		ghostmisses = ghostmisses + 1;
 		ghostmisses = ghostmisses + 1;
 		if health <= 0 then
-			setPropertyFromClass('GameOverSubstate', 'characterName', 'bfsigndeath');
+			setPropertyFromClass('GameOverSubstate', 'characterName', 'bf_sign-death');
 			setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'tikygameOver'); --put in mods/music/
 			setPropertyFromClass('GameOverSubstate', 'endSoundName', 'tikygameOverEnd'); --put in mods/music/
 		end
@@ -45,7 +45,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	-- loopsLeft = how many are remaining
 	setProperty('health', getProperty('health')-0.075);
 	if health <= 0 then
-		setPropertyFromClass('GameOverSubstate', 'characterName', 'bfsigndeath');
+		setPropertyFromClass('GameOverSubstate', 'characterName', 'bf_sign-death');
 		setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'tikygameOver'); --put in mods/music/
 		setPropertyFromClass('GameOverSubstate', 'endSoundName', 'tikygameOverEnd'); --put in mods/music/
 	end

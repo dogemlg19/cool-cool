@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="gf-tricky-ex.png">
+<TextureAtlas imagePath="gf_tricky_ex.png">
 <!-- Created with Kades Custom Converter -->
 <SubTexture name="GF Ex Tricky0000" x="0" y="0" width="341" height="395" frameX="-8" frameY="-9" frameWidth="353" frameHeight="418"/>
 <SubTexture name="GF Ex Tricky0001" x="366" y="0" width="344" height="390" frameX="-1" frameY="-14" frameWidth="353" frameHeight="418"/>

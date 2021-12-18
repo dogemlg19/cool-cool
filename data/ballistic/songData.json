@@ -2,15 +2,17 @@
 	"offset": 0,
 	"description": "VS Whitty Mod by KadeDev, NateAnim8 and bbpanzu",
 	"colors": [143, 0, 31],
-	"healthicon": "pico",
+	"healthicon": "whitty_crazy",
 	"songName": "Ballistic",
 	"uses": {
 		"modchart": false,
 		"events": false,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": [],
 		"stages": []
+		"characters": [
+			"whitty_crazy"
+		],
 	},
 	"difficulty": {
 		"names": [

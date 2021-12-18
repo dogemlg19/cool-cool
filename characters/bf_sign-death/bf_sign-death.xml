@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Alldeath.png">
+<TextureAtlas imagePath="bf_sign-death.png">
 <!-- Created with Kades Custom Converter -->
 <SubTexture name="BF Dead Loop0000" x="0" y="0" width="635" height="556" frameX="-0" frameY="-0" frameWidth="635" frameHeight="556"/>
 <SubTexture name="BF Dead Loop0001" x="636" y="0" width="635" height="556" frameX="-0" frameY="-0" frameWidth="635" frameHeight="556"/>

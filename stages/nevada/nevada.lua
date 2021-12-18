@@ -141,7 +141,7 @@ function onCreate()
 	--a bunch of precaching to brace for lag
 	
 	if difficulty == 1 then
-		precacheImage('custom_notetypes/EX Note');
+		precacheImage('custom_notetypes/EX_Note');
 		precacheImage('stages/nevada/gremlin');
 		if not lowQuality then
 			precacheImage('stages/nevada/hellclown');
@@ -153,7 +153,7 @@ function onCreate()
 			precacheImage('stages/nevada/engineer');
 			precacheImage('stages/nevada/agent');
 		end
-		precacheImage('custom_notetypes/Hell Note');
+		precacheImage('custom_notetypes/Hell_Note');
 	end
 	
 	if not lowQuality then
@@ -165,9 +165,10 @@ function onCreate()
 		precacheImage('stages/nevada/speakers');
 	end
 	precacheImage('custom_notetypes/Bullet_Note');
+	precacheImage('custom_notetypes/BulletKill_Note');
 	addCharacterToList('hank-scared', 'dad'); 
-	addCharacterToList('acceleranttricky', 'gf');
-	addCharacterToList('gf-handsup', 'gf');
+	addCharacterToList('tricky_accelerant', 'gf');
+	addCharacterToList('gf_hands-up', 'gf');
 	precacheSound('hankshoot');
 	precacheSound('hankreadyupsound');
 	precacheSound('Screamfade');

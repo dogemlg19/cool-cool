@@ -24,7 +24,7 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'EX_Note' then
 		setProperty('health', -1);
 		playSound('ex_death', 0.8);
-		setPropertyFromClass('GameOverSubstate', 'characterName', 'bfsigndeath');
+		setPropertyFromClass('GameOverSubstate', 'characterName', 'bf_sign-death');
 		setPropertyFromClass('GameOverSubstate', 'loopSoundName', 'tikygameOver'); --put in mods/music/
 		setPropertyFromClass('GameOverSubstate', 'endSoundName', 'tikygameOverEnd'); --put in mods/music/
 	end
