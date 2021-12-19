@@ -27,6 +27,15 @@ This repository contains the files for downloading it in FNF Extra.
 - [**bbpanzu**](https://twitter.com/bbpanzu)
 ### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=JG0OQIKC7s0)
 
+## Disassembler from VS Shaggy 2.5 Mod
+### Authors:
+- [**srPerez**](https://www.youtube.com/channel/UC9UH64vUCZmJnCjHzTbNmug) - Coder, Main artist, Main composer & Co-Charter
+- [**MORO**](https://www.youtube.com/channel/UC8f-8Krg89SQvyEFfts1H3A) - Artist of WB Shaggy's sprites & Cutscene animator
+- [**pointy**](https://gamebanana.com/members/1762781) - Co-charter, Betatester
+- [**Saruky__**](https://gamebanana.com/members/1856505) - Composer of "Thunderstorm"
+- [**Joan Atlas**](https://gamebanana.com/members/1905695) - Composer of "Disassembler"
+### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=6R5XR-RUpcI) - [**GameBanana page**](https://gamebanana.com/mods/284121)
+
 ## Expurgation from VS Tricky 2.0 Mod
 ### Authors:
 - [**Banbuds**](https://twitter.com/Banbuds) - Director, Artist and Animator
