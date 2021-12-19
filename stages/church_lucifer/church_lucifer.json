@@ -1,0 +1,30 @@
+{
+	"defaultZoom": 0.7,
+	"directory": "",
+	"opponent": [
+		100,
+		-150
+	],
+	"boyfriend": [
+		1040,
+		315
+	],
+	"isPixelStage": false,
+	"girlfriend": [
+		400,
+		130
+	],
+	"neededFiles": {
+		"images": [
+			"bg",
+			"circ2",
+			"circ1",
+			"circ0",
+			"floor",
+			"pillars"
+		],
+		"sounds": [],
+		"imagesWithXml": [],
+		"music": []
+	}
+}

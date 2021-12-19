@@ -1,0 +1,78 @@
+{
+	"healthbar_colors": [
+		218,
+		60,
+		125
+	],
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "characters/sarvente_lucifer",
+	"sing_duration": 4.1,
+	"healthicon": "sarvente_lucifer",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LuciferSarvLeft"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LuciferSarvDown"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LuciferSarvUp"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LuciferSarvRight"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "LuciferSarvIdle"
+		}
+	]
+}

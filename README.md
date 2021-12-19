@@ -40,6 +40,15 @@ This repository contains the files for downloading it in FNF Extra.
 - [**Krinkels**](https://twitter.com/MRKrinkels) - Madness Combat
 ### Links: [**Listen song**](https://www.youtube.com/watch?v=WmXn3L5bQy4) - [**GameBanana page**](https://gamebanana.com/mods/44334)
 
+## Gospel Retrospecter Remix from Mid-Fight Masses Mod
+### Authors:
+- [**dokki.doodlez**](https://ko-fi.com/dokkidoodlez) - Director and artist of original mod
+- [**Mike Geno**](https://twitter.com/electro_mike) - Composer of original mod
+- [**KuroaoAnomal**](https://twitter.com/kuroao_anomal) - Programmer of original mod
+- [**Retrospecter**](https://twitter.com/retrospecter_) - Composer of remix
+- [**ClipeeChan**](https://twitter.com/LilyClipster) - Charter of remix
+### Links: [**Listen all mod (with gameplay)**](https://www.youtube.com/watch?v=7ZbZ30ifnKM) - [**GameBanana page of remix (not original mod!)**](https://gamebanana.com/mods/286871)
+
 ## Jackpot
 ### Authors:
 - [**TheFatRat**](https://twitter.com/thisisthefatrat) - Musician
