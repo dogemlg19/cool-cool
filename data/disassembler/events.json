@@ -2,7 +2,7 @@
 	"song": {
 		"speed": 2.6,
 		"player1": "bf",
-		"player2": "rshaggy",
+		"player2": "red_shaggy",
 		"player3": "gf",
 		"notes": [
 			{
@@ -1564,9 +1564,9 @@
 		"splashSkin": null,
 		"validScore": false,
 		"bpm": 188,
-		"mania": 2,
+		"mania": 4,
 		"arrowSkin": "",
 		"needsVoices": true,
-		"song": "Dissasembler"
+		"song": "Disassembler"
 	}
 }
