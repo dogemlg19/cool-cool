@@ -1,23 +1,4 @@
 {
-	"healthbar_colors": [
-		220,
-		0,
-		0
-	],
-	"position": [
-		-280,
-		-60
-	],
-	"scale": 1,
-	"no_antialiasing": false,
-	"camera_position": [
-		200,
-		200
-	],
-	"image": "characters/tricky_ex",
-	"sing_duration": 4,
-	"healthicon": "tricky_ex",
-	"flip_x": false,
 	"animations": [
 		{
 			"loop": true,
@@ -74,5 +55,24 @@
 			"name": "Sing Down",
 			"indices": []
 		}
-	]
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky_ex",
+	"position": [
+		-280,
+		-60
+	],
+	"healthicon": "tricky_ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
 }

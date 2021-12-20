@@ -8,22 +8,9 @@
 		"modchart": false,
 		"events": true,
 		"custom_events": [],
-		"custom_notetypes": [
-			"Bullet_Note",
-			"BulletKill_Note",
-			"EX_Note",
-			"Hell_Note"
-		],
-		"characters": [
-			"tricky_accelerant",
-			"bf_sign-death",
-			"gf_hands-up",
-			"hank",
-			"hank-scared"
-		],
-		"stages": [
-			"nevada"
-		]
+		"custom_notetypes": ["Bullet_Note", "BulletKill_Note", "EX_Note", "Hell_Note"],
+		"characters": ["tricky_accelerant", "bf_sign-death", "gf_hands-up", "hank", "hank-scared"],
+		"stages": ["nevada"]
 	},
 	"difficulty": {
 		"names": [

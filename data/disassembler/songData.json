@@ -9,12 +9,8 @@
 		"events": true,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": [
-			"red_shaggy"
-		],
-		"stages": [
-			"red_shaggy_stage"
-		]
+		"characters": ["red_shaggy"],
+		"stages": ["red_shaggy_stage"]
 	},
 	"difficulty": {
 		"names": [

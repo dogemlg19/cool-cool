@@ -9,12 +9,8 @@
 		"events": false,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": [
-			"sarvente_lucifer"
-		],
-		"stages": [
-			"church_lucifer"
-		]
+		"characters": ["sarvente_lucifer"],
+		"stages": ["church_lucifer"]
 	},
 	"difficulty": {
 		"names": [

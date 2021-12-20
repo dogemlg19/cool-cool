@@ -9,12 +9,8 @@
 		"events": false,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": [
-			"chara"
-		],
-		"stages": [
-			"chara_stage"
-		]
+		"characters": ["chara"],
+		"stages": ["chara_stage"]
 	},
 	"difficulty": {
 		"names": [

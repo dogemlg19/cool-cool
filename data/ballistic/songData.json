@@ -9,12 +9,8 @@
 		"events": false,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": [
-			"whitty_crazy"
-		],
-		"stages": [
-			"ballistic_alley"
-		]
+		"characters": ["whitty_crazy"],
+		"stages": ["ballistic_alley"]
 	},
 	"difficulty": {
 		"names": [

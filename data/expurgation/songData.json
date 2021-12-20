@@ -8,16 +8,9 @@
 		"modchart": false,
 		"events": false,
 		"custom_events": [],
-		"custom_notetypes": [
-			"EX_Note"
-		],
-		"characters": [
-			"tricky_ex",
-			"gf_tricky_ex"
-		],
-		"stages": [
-			"nevada_ex"
-		]
+		"custom_notetypes": ["EX_Note"],
+		"characters": ["tricky_ex", "gf_tricky_ex"],
+		"stages": ["nevada_ex"]
 	},
 	"difficulty": {
 		"needUpperCase": true,

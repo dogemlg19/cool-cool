@@ -1,23 +1,4 @@
 {
-	"healthbar_colors": [
-		218,
-		60,
-		125
-	],
-	"position": [
-		0,
-		0
-	],
-	"scale": 1,
-	"no_antialiasing": false,
-	"camera_position": [
-		0,
-		0
-	],
-	"image": "characters/sarvente_lucifer",
-	"sing_duration": 4.1,
-	"healthicon": "sarvente_lucifer",
-	"flip_x": false,
 	"animations": [
 		{
 			"loop": true,
@@ -74,5 +55,24 @@
 			"indices": [],
 			"name": "LuciferSarvIdle"
 		}
-	]
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvente_lucifer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sarvente_lucifer",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		60,
+		125
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.1,
+	"scale": 1
 }

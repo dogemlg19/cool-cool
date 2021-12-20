@@ -1,28 +1,16 @@
 {
-	"defaultZoom": 0.9,
-	"opponent": [
-		100,
-		100
-	],
 	"directory": "",
-	"neededFiles": {
-		"sounds": [],
-		"images": [
-			"whittyFront",
-			"thefunnyeffect"
-		],
-		"music": [],
-		"imagesWithXml": [
-			"ballisticBG"
-		]
-	},
-	"girlfriend": [
-		400,
-		130
-	],
+	"defaultZoom": 0.9,
 	"isPixelStage": false,
-	"boyfriend": [
-		770,
-		100
-	]
+
+	"boyfriend": [770, 100],
+	"girlfriend": [400, 130],
+	"opponent": [100, 100],
+
+	"neededFiles": {
+		"images": ["whittyFront", "thefunnyeffect"],
+		"imagesWithXml": ["ballisticBG"],
+		"sounds": [],
+		"music": []
+	}
 }

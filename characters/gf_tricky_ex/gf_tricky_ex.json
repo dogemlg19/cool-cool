@@ -1,23 +1,4 @@
 {
-	"healthbar_colors": [
-		165,
-		0,
-		77
-	],
-	"position": [
-		80,
-		250
-	],
-	"scale": 1,
-	"no_antialiasing": false,
-	"camera_position": [
-		-170,
-		60
-	],
-	"image": "characters/gf_tricky_ex",
-	"sing_duration": 4,
-	"healthicon": "gf",
-	"flip_x": false,
 	"animations": [
 		{
 			"loop": false,
@@ -63,5 +44,24 @@
 			],
 			"name": "GF Ex Tricky"
 		}
-	]
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_tricky_ex",
+	"position": [
+		80,
+		250
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-170,
+		60
+	],
+	"scale": 1,
+	"sing_duration": 4
 }
