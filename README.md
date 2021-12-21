@@ -49,6 +49,14 @@ This repository contains the files for downloading it in FNF Extra.
 - [**Krinkels**](https://twitter.com/MRKrinkels) - Madness Combat
 ### Links: [**Listen song**](https://www.youtube.com/watch?v=WmXn3L5bQy4) - [**GameBanana page**](https://gamebanana.com/mods/44334)
 
+
+## Gospel from Mid-Fight Masses Mod
+### Authors:
+- [**dokki.doodlez**](https://ko-fi.com/dokkidoodlez) - Director and artist
+- [**Mike Geno**](https://twitter.com/electro_mike) - Composer
+- [**KuroaoAnomal**](https://twitter.com/kuroao_anomal) - Programmer
+### Links: [**Listen all mod (with gameplay)**](https://www.youtube.com/watch?v=7ZbZ30ifnKM)
+
 ## Gospel Retrospecter Remix from Mid-Fight Masses Mod
 ### Authors:
 - [**dokki.doodlez**](https://ko-fi.com/dokkidoodlez) - Director and artist of original mod
@@ -56,7 +64,7 @@ This repository contains the files for downloading it in FNF Extra.
 - [**KuroaoAnomal**](https://twitter.com/kuroao_anomal) - Programmer of original mod
 - [**Retrospecter**](https://twitter.com/retrospecter_) - Composer of remix
 - [**ClipeeChan**](https://twitter.com/LilyClipster) - Charter of remix
-### Links: [**Listen all mod (with gameplay)**](https://www.youtube.com/watch?v=7ZbZ30ifnKM) - [**GameBanana page of remix (not original mod!)**](https://gamebanana.com/mods/286871)
+### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=NF0-4K9L430) - [**GameBanana page of remix (not original mod!)**](https://gamebanana.com/mods/286871)
 
 ## Jackpot
 ### Authors:
@@ -71,3 +79,9 @@ This repository contains the files for downloading it in FNF Extra.
 - [**Eggplant**](https://gamebanana.com/members/1851478) - Art
 - [**Fire_MF**](https://gamebanana.com/members/1600796) - Charts
 ### Links: [**Listen song**](https://www.youtube.com/watch?v=CLtwSu_iRxU) - [**GameBanana page**](https://gamebanana.com/mods/55836)
+
+## Termination from VS QT Mod
+### Authors:
+- [**Hazardous24**](https://twitter.com/Hazard248) - Programming, Animation, Music, Charting
+- [**CountNightshade**](https://twitter.com/CountNightshade) - Art
+### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=4wSGwdsfhbs) - [**GameBanana page**](https://gamebanana.com/mods/299714)
