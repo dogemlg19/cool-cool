@@ -1,0 +1,16 @@
+{
+	"directory": "",
+	"defaultZoom": 0.8125,
+	"isPixelStage": false,
+
+	"boyfriend": [810, 165],
+	"girlfriend": [400, 130],
+	"opponent": [30, 166],
+
+	"neededFiles": {
+		"images": ["streetBack", "streetBackError", "streetError", "streetFront", "streetFrontError"],
+		"imagesWithXml": ["TV_V4"],
+		"sounds": [],
+		"music": []
+	}
+}

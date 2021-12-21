@@ -1,0 +1,25 @@
+{
+	"offset": 0,
+	"description": "VS QT Mod by Hazardous24 and CountNightshade",
+	"colors": [202, 54, 92],
+	"healthicon": "qt_robot",
+	"songName": "termination",
+	"uses": {
+		"modchart": false,
+		"events": false,
+		"custom_events": [],
+		"custom_notetypes": [],
+		"characters": [
+			"qt_robot"
+		],
+		"stages": [
+			"street_qt_robot"
+		]
+	},
+	"difficulty": {
+		"names": [
+			"very hard"
+		],
+		"needUpperCase": true
+	}
+}
