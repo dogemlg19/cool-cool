@@ -1,9 +1,9 @@
 {
 	"offset": 0,
-	"description": "Mid-Fight Masses Mod by dokki.doodlez, Mike Geno and KuroaoAnomal (remixed by Retrospecter and charted by ClipeeChan)",
-	"colors": [169, 23, 109],
+	"description": "Mid-Fight Masses Mod by dokki.doodlez, Mike Geno and KuroaoAnomal",
+	"colors": [202, 63, 145],
 	"healthicon": "sarvente_lucifer",
-	"songName": "gospel retrospecter",
+	"songName": "gospel",
 	"uses": {
 		"modchart": false,
 		"events": false,
@@ -14,7 +14,10 @@
 	},
 	"difficulty": {
 		"names": [
-			""
+			"easy",
+			"normal",
+			"hard",
+			"alt"
 		],
 		"needUpperCase": true
 	}
