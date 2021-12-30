@@ -89,12 +89,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/red_shaggy",
+	"image": "characters/shaggy_red",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "red_shaggy",
+	"healthicon": "shaggy_red",
 	"flip_x": false,
 	"healthbar_colors": [
 		209,

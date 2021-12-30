@@ -1,0 +1,22 @@
+{
+	"offset": 0,
+	"description": "VS Shaggy Mod by srPerez, MORO, Saruky__ and Joan Atlas",
+	"colors": [156, 0, 121],
+	"healthicon": "shaggy_wb",
+	"songName": "Astral Calamity",
+	"uses": {
+		"modchart": false,
+		"events": true,
+		"custom_events": [],
+		"custom_notetypes": [],
+		"characters": ["shaggy_wb"],
+		"stages": ["shaggy_hell"]
+	},
+	"difficulty": {
+		"names": [
+			"[7k] easy",
+			"[7k] canon"
+		],
+		"needUpperCase": true
+	}
+}
