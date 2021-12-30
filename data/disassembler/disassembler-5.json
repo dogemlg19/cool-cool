@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"sectionLengths": [],
-		"player2": "red_shaggy",
+		"player2": "shaggy_red",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -8562,7 +8562,7 @@
 		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,
-		"stage": "red_shaggy_stage",
+		"stage": "shaggy_red_stage",
 		"bpm": 188,
 		"speed": 2.6
 	}

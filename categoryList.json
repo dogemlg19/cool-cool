@@ -1,7 +1,7 @@
 {
 	"songs": ["accelerant", "atomosphere", "ballistic", "disassembler", "expurgation", "gospel", "gospel-retrospecter", "jackpot", "megalo-strike-back", "termination", "thunderstorm"],
-	"characters": ["bf_sign-death", "chara", "gf_hands-up", "gf_tricky_ex", "hank", "hank-scared", "qt_robot", "red_shaggy", "tricky_accelerant", "tricky_ex", "sarvente_lucifer", "whitty_crazy"],
-	"stages": ["chara_stage", "church_lucifer", "nevada", "nevada_ex", "red_shaggy_stage", "street_qt_robot"],
+	"characters": ["bf_sign-death", "chara", "gf_hands-up", "gf_tricky_ex", "hank", "hank-scared", "qt_robot", "shaggy_red", "tricky_accelerant", "tricky_ex", "sarvente_lucifer", "whitty_crazy"],
+	"stages": ["chara_stage", "church_lucifer", "nevada", "nevada_ex", "shaggy_red_stage", "street_qt_robot"],
 	"custom_notetypes": ["Bullet_Note", "BulletKill_Note", "EX_Note", "Hell_Note"],
 	"custom_events": ["Opponent Fade"]
 }

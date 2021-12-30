@@ -1,31 +1,23 @@
 {
+	"offset": 0,
+	"description": "VS Shaggy Mod by srPerez, MORO, Saruky__ and Joan Atlas",
+	"colors": [113, 73, 168],
+	"healthicon": "shaggy_red",
+	"songName": "Thunderstorm",
 	"uses": {
 		"modchart": false,
-		"stages": [
-			"red_shaggy_stage"
-		],
-		"custom_notetypes": [],
 		"events": true,
-		"characters": [
-			"red_shaggy"
-		],
-		"custom_events": []
+		"custom_events": [],
+		"custom_notetypes": [],
+		"characters": ["shaggy_red"],
+		"stages": ["shaggy_red_stage"]
 	},
-	"songName": "Thunderstorm",
-	"colors": [
-		113,
-		73,
-		168
-	],
-	"description": "VS Shaggy Mod by srPerez, MORO, Joan Atlas, pointy",
-	"healthicon": "red_shaggy",
 	"difficulty": {
-		"needUpperCase": true,
 		"names": [
 			"[4k] mania",
-			"[6k] easy",
+			"[7k] easy",
 			"[7k] canon"
-		]
-	},
-	"offset": 0
+		],
+		"needUpperCase": true
+	}
 }

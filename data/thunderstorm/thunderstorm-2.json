@@ -6096,11 +6096,11 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "red_shaggy",
+		"player2": "shaggy_red",
 		"player3": "gf",
 		"mania": 6,
 		"song": "Thunderstorm",
-		"stage": "red_shaggy_stage",
+		"stage": "shaggy_red_stage",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,

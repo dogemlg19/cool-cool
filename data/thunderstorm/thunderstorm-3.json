@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"sectionLengths": [],
-		"player2": "red_shaggy",
+		"player2": "shaggy_red",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -6518,7 +6518,7 @@
 		"mania": 7,
 		"player3": "gf",
 		"song": "Thunderstorm",
-		"stage": "red_shaggy_stage",
+		"stage": "shaggy_red_stage",
 		"arrowSkin": "",
 		"needsVoices": true,
 		"sections": 0,

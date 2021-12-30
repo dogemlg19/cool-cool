@@ -1,16 +1,16 @@
 {
 	"offset": 0,
-	"description": "VS Shaggy Mod by srPerez, MORO, Joan Atlas, pointy",
+	"description": "VS Shaggy Mod by srPerez, MORO, Saruky__ and Joan Atlas",
 	"colors": [113, 73, 168],
-	"healthicon": "red_shaggy",
+	"healthicon": "shaggy_red",
 	"songName": "Disassembler",
 	"uses": {
 		"modchart": false,
 		"events": true,
 		"custom_events": [],
 		"custom_notetypes": [],
-		"characters": ["red_shaggy"],
-		"stages": ["red_shaggy_stage"]
+		"characters": ["shaggy_red"],
+		"stages": ["shaggy_red_stage"]
 	},
 	"difficulty": {
 		"names": [
