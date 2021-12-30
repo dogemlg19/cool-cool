@@ -1,6 +1,6 @@
 {
 	"offset": 0,
-	"description": "VS QT Mod by Hazardous24 and CountNightshade",
+	"description": "VS QT Mod by Hazardous24 and CountNightshade (6k chart by MarshalMG1)",
 	"colors": [202, 54, 92],
 	"healthicon": "qt_robot",
 	"songName": "termination",
@@ -18,7 +18,8 @@
 	},
 	"difficulty": {
 		"names": [
-			"very hard"
+			"[4k] very hard",
+			"[6k] very hard"
 		],
 		"needUpperCase": true
 	}

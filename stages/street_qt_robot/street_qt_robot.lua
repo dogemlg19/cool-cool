@@ -35,7 +35,7 @@ function onCreate()
 end
 
 function onCountdownTick(counter)
-	if counter == 0 then
+	if counter == 0 and difficulty == 0 then
 		setPropertyFromGroup('opponentStrums', 1, 'visible', false);
 		setPropertyFromGroup('opponentStrums', 2, 'visible', false);
 		setPropertyFromGroup('opponentStrums', 3, 'visible', false);
@@ -48,6 +48,7 @@ end
 local duration = 1 -- of appear notes
 
 function onBeatHit()
+	if difficulty == 0 then
 	if curBeat < 4 then
 		noteTweenAlpha('noteDownOP1', 1, 0, 0.01, 'linear');
 		noteTweenAlpha('noteUpOP1', 2, 0, 0.01, 'linear');
@@ -76,6 +77,7 @@ function onBeatHit()
 		noteTweenAlpha('noteRightOP', 3, 1, duration, 'linear');
 		noteTweenAlpha('noteLeftPL', 4, 1, duration, 'linear');
 	end
+	end
 
 	--[[if curBeat == 2 then
 		doTweenAngle('lmao', 'camHUD', 360, 1, 'linear');
@@ -93,8 +95,11 @@ function onBeatHit()
 	end
 	if curBeat == 323 then
 		objectPlayAnimation('tv', 'idle');
+		if difficulty == 0 then
 		noteTweenY('noteUpPL_MECH', 6, getPropertyFromGroup('playerStrums', 2, 'y') + 60, 0.25, 'linear');
+		end
 	end
+	if difficulty == 0 then
 	if curBeat == 339 then
 		noteTweenY('noteUpPL_MECH', 6, getPropertyFromGroup('playerStrums', 2, 'y') - 60, 0.25, 'linear');
 
@@ -146,6 +151,7 @@ function onBeatHit()
 		noteTweenX('noteDownPL_MECH_X', 5, getPropertyFromGroup('playerStrums', 2, 'x'), 0.25, 'linear');
 		noteTweenX('noteUpPL_MECH_X', 6, getPropertyFromGroup('playerStrums', 1, 'x'), 0.25, 'linear');
 		noteTweenX('noteRightPL_MECH_X', 7, getPropertyFromGroup('playerStrums', 0, 'x'), 0.25, 'linear');
+	end
 	end
 	if curBeat == 512 then
 		objectPlayAnimation('tv', 'alert');

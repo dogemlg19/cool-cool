@@ -84,4 +84,5 @@ This repository contains the files for downloading it in FNF Extra.
 ### Authors:
 - [**Hazardous24**](https://twitter.com/Hazard248) - Programming, Animation, Music, Charting
 - [**CountNightshade**](https://twitter.com/CountNightshade) - Art
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=4wSGwdsfhbs) - [**GameBanana page**](https://gamebanana.com/mods/299714)
+- [**MarshalMG1**](https://gamebanana.com/members/1797926) - 6k chart
+### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=4wSGwdsfhbs) - [**GameBanana page of original mod**](https://gamebanana.com/mods/299714) - [**GameBanana page of 6k chart**](https://gamebanana.com/mods/336613)
