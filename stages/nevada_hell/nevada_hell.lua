@@ -15,13 +15,6 @@ function onCreate()
 	addLuaSprite('island', false);
 	addLuaSprite('hank', false);
 	addAnimationByPrefix('hank', 'dance', 'Hank', 24, true);
-end
 
-function onCreatePost()
-	--scaleObject('boyfriend', 3, 3);
-	--scaleObject('dad', 4, 4);
-	--setProperty('dad.x', getProperty('dad.x') + 100);
-	--setProperty('dad.y', getProperty('dad.y') - 300);
-	--setProperty('boyfriend.x', getProperty('boyfriend.x') + 1000);
-	--triggerEvent('Camera Follow Pos', getProperty('boyfriend.x'), getProperty('boyfriend.y'));
+	close(true);
 end
