@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Phase 3 Tricky Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				-257
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Phase 3 Tricky Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-390
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Phase 3 Tricky Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				-490
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Phase 3 Tricky Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Phase 3 Tricky Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky_hell",
+	"position": [
+		-800,
+		-1000
+	],
+	"healthicon": "tricky_hell",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		0
+	],
+	"camera_position": [
+		-250,
+		-550
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}
