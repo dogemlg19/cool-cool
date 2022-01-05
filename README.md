@@ -27,7 +27,8 @@ This repository contains the files for downloading it in FNF Extra.
 - [**bbpanzu**](https://twitter.com/bbpanzu)
 ### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=JG0OQIKC7s0)
 
-## Thunderstorm, Disassembler and Astral Calamity from VS Shaggy 2.5 Mod
+## VS Shaggy 2.5 Mod
+### Songs added to FNF Extra: GOD EATER, Thunderstorm, Disassembler and Astral Calamity
 ### Authors:
 - [**srPerez**](https://www.youtube.com/channel/UC9UH64vUCZmJnCjHzTbNmug) - Coder, Main artist, Main composer & Co-Charter
 - [**MORO**](https://www.youtube.com/channel/UC8f-8Krg89SQvyEFfts1H3A) - Artist of WB Shaggy's sprites & Cutscene animator
