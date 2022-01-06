@@ -26,14 +26,15 @@ function onBeatHit()
 		triggerEvent('Change Scroll Speed', '1', '0.5');
 		setProperty('defaultCamZoom', 1.5);
 	end
-	if curBeat == 521 then
-		setProperty('defaultCamZoom', 0.75);
-	end
 	if curBeat == 513 then
 		charaIsBF(true);
 	end
+	if curBeat == 521 then
+		setProperty('defaultCamZoom', 0.85);
+	end
 	if curBeat == 569 then
 		charaIsBF(false);
+		setProperty('defaultCamZoom', 0.75);
 	end
 	if curBeat == 595 then
 		triggerEvent('Screen Shake', '6, 0.01', '6, 0.001');
@@ -65,11 +66,5 @@ function charaIsBF(da)
 		setProperty('boyfriend.flipX', true);
 	else
 		setProperty('boyfriend.flipX', false);
-	end
-
-	if da then
-		setProperty('defaultCamZoom', 0.85);
-	elseif not setProperty('defaultCamZoom') == 1.5 then
-		setProperty('defaultCamZoom', 0.75);
 	end
 end
