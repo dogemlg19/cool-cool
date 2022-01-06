@@ -69,7 +69,7 @@ function charaIsBF(da)
 
 	if da then
 		setProperty('defaultCamZoom', 0.85);
-	else if setProperty('defaultCamZoom') != 1.5 then
+	elseif not setProperty('defaultCamZoom') == 1.5 then
 		setProperty('defaultCamZoom', 0.75);
 	end
 end
