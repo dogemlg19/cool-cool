@@ -17,6 +17,7 @@ This repository contains the files for downloading it in FNF Extra.
 ## Exit This Earth's Atomosphere (Atomosphere)
 ### Authors:
 - [**Camellia**](https://twitter.com/cametek) - Musician
+- [**Protastic101**](https://osu.ppy.sh/users/6712747) - Charter
 ### Links: [**Listen song**](https://www.youtube.com/watch?v=QsuAKlNe_rI) - [**osu!mania beatmap**](https://osu.ppy.sh/beatmapsets/575053)
 > Converted by using [mania2fnf](https://github.com/ItzFireable/mania2fnf)
 
@@ -26,6 +27,15 @@ This repository contains the files for downloading it in FNF Extra.
 - [**NateAnim8**](https://twitter.com/animated_nathan)
 - [**bbpanzu**](https://twitter.com/bbpanzu)
 ### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=JG0OQIKC7s0)
+
+## Bushwhack from VS Zardy 2.0 Mod
+### Authors:
+- [**SwankyBox**](https://www.youtube.com/user/SwankyBox)
+- [**Rozebud**](https://twitter.com/helpme_thebigt)
+- [**StarnyArt**](https://starnyart.tumblr.com/)
+- [**KadeDeveloper**](https://twitter.com/kadedeveloper)
+> idk credits for insane difficulty, i found it in my old folder in pc
+### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=x4au_aU0XU4)
 
 ## VS Shaggy 2.5 Mod
 ### Songs added to FNF Extra: GOD EATER, Thunderstorm, Disassembler and Astral Calamity
@@ -70,6 +80,7 @@ This repository contains the files for downloading it in FNF Extra.
 ## Jackpot
 ### Authors:
 - [**TheFatRat**](https://twitter.com/thisisthefatrat) - Musician
+- **the1chosen** - Charter
 ### Links: [**Listen song**](https://www.youtube.com/watch?v=kL8CyVqzmkc) - [**osu!mania beatmap**](https://osu.ppy.sh/beatmapsets/620808)
 > Converted by using [mania2fnf](https://github.com/ItzFireable/mania2fnf)
 

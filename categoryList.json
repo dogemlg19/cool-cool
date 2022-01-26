@@ -1,7 +1,7 @@
 {
-	"songs": ["accelerant", "astral-calamity", "atomosphere", "ballistic", "disassembler", "expurgation", "god-eater", "gospel", "gospel-retrospecter", "hellclown", "jackpot", "megalo-strike-back", "termination", "thunderstorm"],
-	"characters": ["bf_sign-death", "chara", "gf_hands-up", "gf_tricky_ex", "hank", "hank-scared", "qt_robot", "shaggy_red", "shaggy_wb", "tricky_accelerant", "tricky_ex", "tricky_hell", "sarvente_lucifer", "whitty_crazy"],
-	"stages": ["chara_stage", "church_lucifer", "nevada", "nevada_ex", "nevada_hell", "shaggy_hell", "shaggy_red_stage", "street_qt_robot"],
+	"songs": ["accelerant", "astral-calamity", "atomosphere", "ballistic", "bushwhack", "disassembler", "expurgation", "god-eater", "gospel", "gospel-retrospecter", "hellclown", "jackpot", "megalo-strike-back", "termination", "thunderstorm"],
+	"characters": ["bf_sign-death", "cablecrow", "chara", "gf_hands-up", "gf_tricky_ex", "hank", "hank-scared", "qt_robot", "shaggy_red", "shaggy_wb", "tricky_accelerant", "tricky_ex", "tricky_hell", "sarvente_lucifer", "whitty_crazy", "zardy_dark"],
+	"stages": ["chara_stage", "church_lucifer", "nevada", "nevada_ex", "nevada_hell", "shaggy_hell", "shaggy_red_stage", "street_qt_robot", "zardy_maze_2"],
 	"custom_notetypes": ["Bullet_Note", "BulletKill_Note", "EX_Note", "Hell_Note"],
 	"custom_events": ["Opponent Fade"]
 }

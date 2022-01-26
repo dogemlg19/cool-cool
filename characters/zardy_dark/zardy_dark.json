@@ -1,0 +1,77 @@
+{
+	"healthbar_colors": [
+		11,
+		9,
+		15
+	],
+	"position": [
+		-200,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "characters/zardy_dark",
+	"sing_duration": 4,
+	"healthicon": "zardy_dark",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		}
+	]
+}
