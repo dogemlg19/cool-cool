@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Last Hope", "chara_dusttale", [221, 17, 17]]
+	],
+
+	"weekCharacters": [
+		"chara_dusttale",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"difficulties": "Bad Time",
+	"weekBefore": "last-hope",
+	"weekName": "Last Hope",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

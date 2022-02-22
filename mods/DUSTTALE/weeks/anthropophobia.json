@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Anthropophobia", "sans_dusttale_mad", [77, 79, 95]]
+	],
+
+	"weekCharacters": [
+		"sans_dusttale_mad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"difficulties": "Bad Time",
+	"weekBefore": "anthropophobia",
+	"weekName": "Anthropophobia",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
