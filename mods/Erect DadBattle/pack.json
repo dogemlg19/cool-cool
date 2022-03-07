@@ -1,7 +1,8 @@
 {
 	"name": "Erect DadBattle",
 	"description": "Fanmade Sprites and Chart for the Erect difficulty of Dad Battle",
-	"restart":true,
+	"restart": true,
 	"color": [255, 6, 123],
+	"version": 1,
 	"source": "https://gamebanana.com/mods/347658"
 }

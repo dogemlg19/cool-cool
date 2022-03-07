@@ -1,13 +1,9 @@
 {
-	"description": "VS Shaggy 2.7 Mod",
-	"needDownload": false,
-	"downloadLink": "https://drive.google.com/u/1/uc?id=1eNVT7inFvCPiX4uA9Tal_-4JDQDbr37q&confirm=t",
-	"source": "https://gamebanana.com/mods/284121",
 	"name": "Vs Shaggy 2.7",
+	"description": "VS Shaggy 2.7 Mod",
 	"restart": true,
-	"color": [
-		35,
-		40,
-		80
-	]
+	"color": [35, 40, 80],
+	"version": 1,
+	"source": "https://gamebanana.com/mods/284121",
+	"downloadLink": "https://drive.google.com/u/1/uc?id=1eNVT7inFvCPiX4uA9Tal_-4JDQDbr37q&confirm=t"
 }
