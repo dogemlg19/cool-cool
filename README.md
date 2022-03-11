@@ -32,7 +32,7 @@ This repository contains the files for downloading it in FNF Extra.
 - [**Goobler**](https://gamebanana.com/members/1933642) - Main Menu dust effect, and smth more
 ### Links: [**Watch mod**](https://www.youtube.com/watch?v=8kH-CW4aqyo) - [**GameBanana page**](https://gamebanana.com/mods/347658)
 
-## Dadbattle Erect Remix Fanmade
+## Dad Battle Erect Remix Fanmade
 ### Authors:
 - [**Uniimations**](https://twitter.com/uniianimates) - Art, Animation, Coding
 ### Links: [**Watch mod**](https://www.youtube.com/watch?v=8kH-CW4aqyo) - [**GameBanana page**](https://gamebanana.com/mods/347658)
