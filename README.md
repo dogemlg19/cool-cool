@@ -6,95 +6,42 @@ This repository contains the files for downloading it in FNF Extra.
 
 # Songlist with credits
 
-## Accelerant from VS Online Mod Challenge Week
+## VS Online Mod Challenge Week HANK
 ### Authors:
 - [**FifLeo**](https://twitter.com/fif_leo15) - Lead Artist
 - [**philiplol**](https://twitter.com/Philiplolz) - Musician
 - [**Banbuds**](https://twitter.com/Banbuds) - Additional Assets & Extra Vocals
 - [**TheBlueHatted**](https://twitter.com/hatted_blue) - Programmer & Additional Assets
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=mAmmgEyroJU) - [**GameBanana page**](https://gamebanana.com/mods/286594)
+### Links: [**Watch mod**](https://www.youtube.com/watch?v=mAmmgEyroJU) - [**GameBanana page**](https://gamebanana.com/mods/286594)
 
-## Exit This Earth's Atomosphere (Atomosphere)
+## FNF DUSTTALE Remastered 2.0
 ### Authors:
-- [**Camellia**](https://twitter.com/cametek) - Musician
-- [**Protastic101**](https://osu.ppy.sh/users/6712747) - Charter
-### Links: [**Listen song**](https://www.youtube.com/watch?v=QsuAKlNe_rI) - [**osu!mania beatmap**](https://osu.ppy.sh/beatmapsets/575053)
-> Converted by using [mania2fnf](https://github.com/ItzFireable/mania2fnf)
+- [**WassabiSoja**](https://gamebanana.com/members/1846631) - Owner of the mod, coder, animator and artist
+- [**StampS**](https://twitter.com/kutzz0_0) - Helper in the code
+- [**hexar**](https://gamebanana.com/members/1814820) - Help with some technical things
+- [**IceyDuNoir**](https://twitter.com/IceyDuNoir) - Composer of songs: Drowning, Psychotic Breakdown, Hallucinations, Last Hope, Main Menu Theme, Death Theme
+- **Nathan S.** - Composer of songs: The Murderer, Red Megalovania, Reality Check
+- [**Lemonemy**](https://gamebanana.com/members/1832492) - Composer of songs: D.I.E, Anthropophobia
+- **UndependableNight** - Charter of songs: Drowning, Psychotic Breakdown, D.I.E, Hallucinations
+- [**GoldSebi**](https://gamebanana.com/members/1915643) - Charter of songs: Last Hope, Reality Check, Anthropophobia
+- [**ImCuriousYT**](https://gamebanana.com/members/1863918) - Charter of songs: The Murderer, Red Megalovania
+- **HLosans** - Backgrounds
+- **Samuel Pastel** - Papyrus assets and animations, chara icons
+- **Korean Nooby** - Thumbnails, Chara assets, Undyne assets
+- [**EEF**](https://gamebanana.com/members/1779635) - Gaster Blaster sprite and animation helper
+- [**Goobler**](https://gamebanana.com/members/1933642) - Main Menu dust effect, and smth more
+### Links: [**Watch mod**](https://www.youtube.com/watch?v=8kH-CW4aqyo) - [**GameBanana page**](https://gamebanana.com/mods/347658)
 
-## Ballistic Remastered from FNF Whitty Mod
+## Dadbattle Erect Remix Fanmade
 ### Authors:
-- [**KadeDeveloper**](https://twitter.com/kadedeveloper)
-- [**NateAnim8**](https://twitter.com/animated_nathan)
-- [**bbpanzu**](https://twitter.com/bbpanzu)
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=JG0OQIKC7s0)
+- [**Uniimations**](https://twitter.com/uniianimates) - Art, Animation, Coding
+### Links: [**Watch mod**](https://www.youtube.com/watch?v=8kH-CW4aqyo) - [**GameBanana page**](https://gamebanana.com/mods/347658)
 
-## Bushwhack from VS Zardy 2.0 Mod
-### Authors:
-- [**SwankyBox**](https://www.youtube.com/user/SwankyBox)
-- [**Rozebud**](https://twitter.com/helpme_thebigt)
-- [**StarnyArt**](https://starnyart.tumblr.com/)
-- [**KadeDeveloper**](https://twitter.com/kadedeveloper)
-> idk credits for insane difficulty, i found it in my old folder in pc
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=x4au_aU0XU4)
-
-## VS Shaggy 2.5 Mod
-### Songs added to FNF Extra: GOD EATER, Thunderstorm, Disassembler and Astral Calamity
+## VS Shaggy 2.7 Mod
 ### Authors:
 - [**srPerez**](https://www.youtube.com/channel/UC9UH64vUCZmJnCjHzTbNmug) - Coder, Main artist, Main composer & Co-Charter
 - [**MORO**](https://www.youtube.com/channel/UC8f-8Krg89SQvyEFfts1H3A) - Artist of WB Shaggy's sprites & Cutscene animator
 - [**pointy**](https://gamebanana.com/members/1762781) - Co-charter, Betatester
 - [**Saruky__**](https://gamebanana.com/members/1856505) - Composer of "Thunderstorm"
 - [**Joan Atlas**](https://gamebanana.com/members/1905695) - Composer of "Disassembler"
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=6R5XR-RUpcI) - [**GameBanana page**](https://gamebanana.com/mods/284121)
-
-## Hellclown and Expurgation from VS Tricky 2.0 Mod
-### Authors:
-- [**Banbuds**](https://twitter.com/Banbuds) - Director, Artist and Animator
-- [**Rozebud**](https://twitter.com/helpme_thebigt) - Musician and Programming
-- [**KadeDeveloper**](https://twitter.com/kadedeveloper) - Programming
-- [**Cval**](https://twitter.com/cval_brown) - Charting, off-setting
-- [**YingYang48**](https://twitter.com/YingWasHere) - Composer
-- [**JADS**](https://twitter.com/Aw3somejds) - Composer
-- [**Moro**](https://twitter.com/Moro0986) - Cutscene 3 + 4, Backgrounds
-- [**Tom Fulp**](https://twitter.com/tomfulp) - SFX
-- [**Krinkels**](https://twitter.com/MRKrinkels) - Madness Combat
-### Links: [**Listen song**](https://www.youtube.com/watch?v=WmXn3L5bQy4) - [**GameBanana page**](https://gamebanana.com/mods/44334)
-
-
-## Gospel from Mid-Fight Masses Mod
-### Authors:
-- [**dokki.doodlez**](https://ko-fi.com/dokkidoodlez) - Director and artist
-- [**Mike Geno**](https://twitter.com/electro_mike) - Composer
-- [**KuroaoAnomal**](https://twitter.com/kuroao_anomal) - Programmer
-### Links: [**Listen all mod (with gameplay)**](https://www.youtube.com/watch?v=7ZbZ30ifnKM)
-
-## Gospel Retrospecter Remix from Mid-Fight Masses Mod
-### Authors:
-- [**dokki.doodlez**](https://ko-fi.com/dokkidoodlez) - Director and artist of original mod
-- [**Mike Geno**](https://twitter.com/electro_mike) - Composer of original mod
-- [**KuroaoAnomal**](https://twitter.com/kuroao_anomal) - Programmer of original mod
-- [**Retrospecter**](https://twitter.com/retrospecter_) - Composer of remix
-- [**ClipeeChan**](https://twitter.com/LilyClipster) - Charter of remix
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=NF0-4K9L430) - [**GameBanana page of remix (not original mod!)**](https://gamebanana.com/mods/286871)
-
-## Jackpot
-### Authors:
-- [**TheFatRat**](https://twitter.com/thisisthefatrat) - Musician
-- **the1chosen** - Charter
-### Links: [**Listen song**](https://www.youtube.com/watch?v=kL8CyVqzmkc) - [**osu!mania beatmap**](https://osu.ppy.sh/beatmapsets/620808)
-> Converted by using [mania2fnf](https://github.com/ItzFireable/mania2fnf)
-
-## Megalo Strike Back from VS Chara Mod
-### Authors:
-- [**hexar**](https://twitter.com/hexpex4) - Main Developer
-- [**Rishimazza**](https://twitter.com/rishimazza) - Music
-- [**Eggplant**](https://gamebanana.com/members/1851478) - Art
-- [**Fire_MF**](https://gamebanana.com/members/1600796) - Charts
-### Links: [**Listen song**](https://www.youtube.com/watch?v=CLtwSu_iRxU) - [**GameBanana page**](https://gamebanana.com/mods/55836)
-
-## Termination from VS QT Mod
-### Authors:
-- [**Hazardous24**](https://twitter.com/Hazard248) - Programming, Animation, Music, Charting
-- [**CountNightshade**](https://twitter.com/CountNightshade) - Art
-- [**MarshalMG1**](https://gamebanana.com/members/1797926) - 6k chart
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=4wSGwdsfhbs) - [**GameBanana page of original mod**](https://gamebanana.com/mods/299714) - [**GameBanana page of 6k chart**](https://gamebanana.com/mods/336613)
+### Links: [**Watch mod**](https://www.youtube.com/watch?v=TntjSh9ICz4) - [**GameBanana page**](https://gamebanana.com/mods/284121)
