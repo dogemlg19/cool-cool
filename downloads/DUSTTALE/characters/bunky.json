@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bunky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bunky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bunky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-57
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				19
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				20
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ekmekcore",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bunky left"
+		},
+		{
+			"offsets": [
+				52,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bunky right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bunky",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "bunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		50,
+		110
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

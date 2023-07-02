@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				21
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bassya death0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				15
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bassya death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				29
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bassya death confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bassya-dead",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bassya",
+	"flip_x": true,
+	"healthbar_colors": [
+		52,
+		77,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
