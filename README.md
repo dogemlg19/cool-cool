@@ -2,7 +2,7 @@
 
 This repository contains the files for downloading it in FNF Extra.
 
-<img src="https://media.discordapp.net/attachments/897744969769549875/1119397369612599346/aris_party.gif" width="25%"/>
+![arisu](https://github.com/dogemlg19/cool-cool/assets/106706303/b087efc4-4371-40b8-9094-8b80beee4ce8)
 
 # Songlist with credits
 
