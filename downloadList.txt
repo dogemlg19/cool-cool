@@ -1,5 +1,2 @@
 Accelerant Hank|0
-DUSTTALE|0
-Erect DadBattle|0
-Galaxy Collapse|0
-VS Shaggy 2.7|0
+Test|0
